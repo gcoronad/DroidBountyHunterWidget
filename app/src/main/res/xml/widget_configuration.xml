@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/widget_principal"
+    android:minWidth="180dip"
+    android:minHeight="110dip"
+    android:label="droidBHWidget"
+    android:updatePeriodMillis="1800000"
+    />
+
